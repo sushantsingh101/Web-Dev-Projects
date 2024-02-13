@@ -1,0 +1,22 @@
+.card-title{
+  margin-right: 60%;
+}
+.pagination{
+  align-items: center;
+  justify-content: center;
+}
+.profile-picture{
+  height: 180px;
+  width: 180px;
+  border-radius: 50%;
+  border: 2px solid;
+  border-color: rgb(230, 223, 236);
+  justify-content: center;
+  margin-left: 25%;
+  background-color: rgb(235, 228, 228);
+}
+.center-text-header{
+  justify-content: center;
+  text-align: center;
+}
+
